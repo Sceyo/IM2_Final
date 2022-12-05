@@ -1,0 +1,21 @@
+FOREMAN TABLE:
+
+ForemanID	first_name	last_name	Foreman_Num	Foreman_Add	Email
+1		Kristin		Hernandez	595-6860	Nevada		khernandez@gmail.com
+2		Jaylah		Lewis		646-4418	Washington	jlewis@gmail.com
+3		Lina		Hodge		879-9447	Indiana		lhodge@gmail.com
+4		Jamya		Golden		685-0835	Kansas		jgolden@gmail.com
+5		Ariella		Ayala		965-6584	Arizona		aayala@gmail.com
+6		Levi		Holt		381-4104	Texas		lholt@gmail.com
+7		Nevaeh		Mathews		390-9663	Minnesota	nmathews@gmail.com
+8		Braden		Jensen		295-3719	Ohio		bjensen@gmail.com
+9		Amaya		Newton		728-2545	Florida		anewton@gmail.com
+10		Keyla		Michael		891-0709	New York	kmichael@gmail.com
+
+
+
+//for your information
+-> there are NO duplicate names in these table every name is unique.
+-> emails are unique, the combination is First Letter of First Name followed by Last Name eg. jbaird@gmail.com
+	they all use @gmail.com
+-> there are NO duplicate addressess
