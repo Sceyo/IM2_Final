@@ -1,0 +1,21 @@
+SUPPLIER TABLE:
+
+SupplierID	first_name	last_name	Supplier_Num	Supplier_Add	Email
+1		Jeremy		Newman		642-1766	Ohio		jnewman@gmail.com
+2		Sage		Byrd		291-2785	California	sbyrd@gmail.com
+3		Ross		Huerta		774-8799	Texas		rhuerta@gmail.com
+4		Oscar		Murray		273-5373	Washington	omurray@gmail.com
+5		Sloane		Kane		483-8771	Virginia	skane@gmail.com
+6		Braedon		Maxwell		994-6125	Oklahoma	bmaxwell@gmail.com
+7		Lexie		Greene		935-7421	Oregon		lgreene@gmail.com
+8		Kristina	Warner		602-1549	Arizona		kwarner@gmail.com
+9		Sienna		Rogers		761-0517	Indiana		srogers@gmail.com
+10		Sincere		Arias		920-8119	Florida		sarias@gmail.com
+
+
+
+//for your information
+-> there are NO duplicate names in these table every name is unique.
+-> emails are unique, the combination is First Letter of First Name followed by Last Name eg. jbaird@gmail.com
+	they all use @gmail.com
+-> there are NO duplicate addressess
