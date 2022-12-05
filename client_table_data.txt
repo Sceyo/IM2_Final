@@ -1,0 +1,35 @@
+CLIENT TABLE:
+
+ClientID	first_name	last_name	Client_Num	Client_Add	Email
+1		Braeden		Miles		210-1936	Ohio		bmiles@gmail.com
+2		Kolby		Pittman		794-5984	Texas		kpittman@gmail.com
+3		Payton		Bentley		786-8044	Indiana		pbentley@gmail.com
+4		Rosaria		Wheeler		597-4403	Alabama		rwheeler@gmail.com
+5		Rafael		Richards	863-9043	Oklahoma	rrichards@gmail.com
+6		Jayden		Phillips	725-7522	Alaska		jphillips@gmail.com
+7		Elias		Wiley		686-0004	New York	ewiley@gmail.com
+8		Jorden		Cobb		400-8678	Ohio		jcobb@gmail.com
+9		Byron		Nicholson	866-2109	Texas		bnicholson@gmail.com
+10		Melina		Gilmore		439-9210	California	mgilmore@gmail.com
+11		Hamza		Richmond	655-1323	Georgia		hrichmond@gmail.com
+12		Rose		Sheppard	678-7667	Alabama		rsheppard@gmail.com
+13		Aniyah		Cohen		782-1147	Florida		acohen@gmail.com
+14		Jaylin		Benson		319-8919	Ohio		jbenson@gmail.com
+15		Madeline	Barron		890-5283	Pennsylvania	mbarron@gmail.com
+16		Eleanor		Watkins		212-7546	Alabama		ewatkins@gmail.com
+17		Arianna		Brock		337-7801	California	abrock@gmail.com
+18		Kyan		Downs		847-9550	Texas		kdowns@gmail.com
+19		Kelsie		Todd		272-7545	Nevada		ktodd@gmail.com
+20		Josh		Baird		513-2114	Texas		jbaird@gmail.com
+
+
+
+//for your information
+-> there are no duplicate names in these table every name is unique.
+-> emails are unique the combination is First Letter of First Name followed by Last Name eg. jbaird@gmail.com
+	they all use @gmail.com
+-> there are duplicate addressess:
+	-> Ohio 3 dupes
+	-> Texas 4 dupes
+	-> Alabama 3 dupes
+	-> California 2 dupes
